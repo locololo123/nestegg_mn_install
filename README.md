@@ -25,5 +25,5 @@ git clone https://github.com/locololo123/nestegg_mn_install.git && cd nestegg_mn
 
 Type the following in the Debug Console (Make sure your Collateral transaction has at least 15 confirmations).
 
-<p> startmasternode alias 0 "masternode alias name"
-      example: startmasternode alias 0 mn1</p>
+<center><p> startmasternode alias 0 "masternode alias name"
+ </p><p>example: startmasternode alias 0 mn1</p></center>
