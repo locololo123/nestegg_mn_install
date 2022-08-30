@@ -14,15 +14,16 @@ git clone https://github.com/locololo123/nestegg_mn_install.git && cd nestegg_mn
 
 <h3>Verify node status</h3>
 
-Wait until your masternode is fully Synced with blockchain. You can check this with the command below:
+<p>Wait until your masternode is fully Synced with blockchain. You can check this with the command below:</p>
 
  nestegg-cli getinfo
-When your masternode is fully synced enter the command below to verify your masternode status:
+<p>When your masternode is fully synced enter the command below to verify your masternode status:</p>
 
  nestegg-cli getmasternodestatus
-QT Wallet commands to start Masternode
+ 
+<h3>QT Wallet commands to start Masternode</h3>
 
 Type the following in the Debug Console (Make sure your Collateral transaction has at least 15 confirmations).
 
- startmasternode alias 0 "masternode alias name"
-      example: startmasternode alias 0 mn1
+<p> startmasternode alias 0 "masternode alias name"
+      example: startmasternode alias 0 mn1</p>
